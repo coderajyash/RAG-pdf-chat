@@ -1,10 +1,10 @@
-# 📄 PDFOracle
+# PDFOracle
 
 PDFOracle is a fully local, free RAG (Retrieval-Augmented Generation) application that lets users chat with PDF documents using natural language. It combines document ingestion, text chunking, semantic embeddings, vector search, and a local language model to generate answers grounded in the content of the uploaded PDF. The entire system runs on the user's machine, making it private, cost-free, and independent of paid external APIs.
 
 ---
 
-## 🧩 What PDFOracle Solves
+## What PDFOracle Solves
 
 Working with long PDF files can be frustrating when users need specific information quickly. Traditional PDF reading and keyword search are often slow, manual, and limited because they depend on exact word matches rather than meaning.
 
@@ -24,7 +24,7 @@ In short, PDFOracle transforms a PDF from something you read linearly into somet
 
 ---
 
-## 🚀 Core Features
+## Core Features
 
 - Chat with any PDF using natural language
 - Fully local and free pipeline
@@ -39,7 +39,7 @@ In short, PDFOracle transforms a PDF from something you read linearly into somet
 
 ---
 
-## 🏗️ Project Architecture
+## Project Architecture
 
 PDFOracle follows a Retrieval-Augmented Generation (RAG) architecture.
 
@@ -75,7 +75,7 @@ Flow:
 
 ---
 
-## 🔁 End-to-End Flow
+## End-to-End Flow
 
 ### Ingestion Pipeline
 
@@ -114,6 +114,6 @@ Generate grounded answer
 ```
 
 
-## 📄 License
+## License
 
 MIT License — free to use, modify, and distribute.
